@@ -208,3 +208,7 @@ BibTeX entry:
   github       = {https://github.com/rasbt/LLMs-from-scratch}
 }
 ```
+
+## Reference
+- [Build a Large Language Model (From Scratch) - Youtube Videos](https://www.youtube.com/playlist?list=PLTKMiZHVd_2IIEsoJrWACkIxLRdfMlw11)
+- [Building LLMs from scratch by Vizuara](https://www.youtube.com/playlist?list=PLPTV0NXA_ZSgsLAr8YCgCwhPIJNNtexWu)
